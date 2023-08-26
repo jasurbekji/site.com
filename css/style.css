@@ -1,0 +1,31 @@
+table{
+    width: 100%;
+
+}
+tbody, tr, td{
+    height: 95px;
+}
+thead, th{
+    background-color: rgb(210, 210, 210);
+}
+.salom{
+background-color: blue;
+}
+tbody{
+    text-align: center;
+}
+.are{
+    background-color: red;
+}
+.blue{
+    background-color: blueviolet;
+}
+.green{
+    background-color: greenyellow;
+}
+.yellow{
+    background-color: aqua;
+}
+.bad{
+    background-color: rgb(189, 154, 138);
+}
